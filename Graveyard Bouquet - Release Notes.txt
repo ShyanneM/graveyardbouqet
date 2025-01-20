@@ -1,0 +1,25 @@
+Release Notes 
+
+Game Project: Graveyard Bouquet 
+Creator: Shyanne Murdock	
+Version:  1.2
+Date: 1/19/2025
+
+New features
+* Added 2 new sprites with dialogue (Skull 2 & Skull 3)
+* Added 2 new ‘sparkle’ sprites
+* New ending room after player finds all the flowers.  
+- Contains new dialogue for the ghost
+- Shows flowers placed by grave
+
+Fixes
+* None 
+
+Improvements
+* Changed initial ghost dialogue to provide more context for theme and objective.
+
+
+
+Known Bugs
+* None
+
